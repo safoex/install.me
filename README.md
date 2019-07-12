@@ -17,7 +17,16 @@ Here I would collect any guides for installation of different software, middlewa
 ## see other file
 
 # CLion, PyCharm
-## download http://www.jetbrains.com/toolbox/app , install, login and go
-## CLion + ROS = https://www.jetbrains.com/help/clion/ros-setup-tutorial.html Did not manage to make a startup icon, but starting from shell is OK. 
+download http://www.jetbrains.com/toolbox/app , install, login and go
+CLion + ROS = https://www.jetbrains.com/help/clion/ros-setup-tutorial.html Did not manage to make a startup icon, but starting from shell is OK. 
+basically: 
+cd /usr/local/bin 
+echo "bash PATH_TO_CLION/bin/clion.sh" > clion
+sudo chmod +x clion
+
+now use clion from command line
 
 
+# Don't forget to...
+sudo apt-get install vim 
+telegram.org
