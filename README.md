@@ -15,7 +15,10 @@ Here I would collect any guides for installation of different software, middlewa
 
 # YARP
 ## see other file
-## while installing YARP from sources, remove libtiff from conda and install libtiff5 (not sure if required) and remove Anaconda from path for this bash session
+while installing YARP from sources, 
+1) remove libtiff from conda and install libtiff5 (not sure if required) 
+2) remove Anaconda from path for this bash session
+3) you would probably need few qt libraries (launch yarpview from cli and see error messages)
 
 # CLion, PyCharm
 download http://www.jetbrains.com/toolbox/app , install, login and go
