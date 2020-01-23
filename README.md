@@ -34,3 +34,6 @@ now use clion from command line
 # Don't forget to...
 sudo apt-get install vim 
 telegram.org
+
+## Pop!_os and dell xps 7590
+sudo apt install ubuntu-restricted-extras
