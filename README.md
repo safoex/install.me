@@ -35,5 +35,6 @@ now use clion from command line
 sudo apt-get install vim 
 telegram.org
 
-## Pop!_os and dell xps 7590
+## Pop!_os 18.04 and dell xps 7590
 sudo apt install ubuntu-restricted-extras
+nvidia problems: tried every instruction on web, but ended up updating the system :] (it worked out)
